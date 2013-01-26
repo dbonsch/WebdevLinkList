@@ -8,7 +8,27 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## Introduction into web development
 
-- http://jendryschik.de/wsdev/einfuehrung/ (de)
+- http://jendryschik.de/wsdev/einfuehrung/ (Einführung in XHTML, CSS und Webdesign) (de)
+- http://www.webplatform.org/  Your Web, documented (en)
+
+## html / html5
+
+## advanced topics
+
+- http://developer.yahoo.com/performance/rules.html Best Practices for Speeding Up Your Web Site (en)
+
+## libraries and frameworks
+
+### html5
+
+- http://html5boilerplate.com/
+- http://modernizr.com/
+
+### js frameworks & libs
+
+- http://jquery.com/
+- http://jqueryui.com/
+- http://twitter.github.com/bootstrap/
 
 
 ## Editors & IDEs
@@ -16,6 +36,23 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 - http://netbeans.org/ Netbeans (en)
 - http://www.aptana.com/ Aptana Studio (en)
 - http://www.zend.com/de/products/studio/ (de/i18n)
+
+## Tools
+
+- http://yui.github.com/yuicompressor/ YUI Compressor (en)
+- http://www.jshint.com/ JSHint is a tool to detect errors and potential problems in JavaScript code and can be used to enforce coding conventions. (en)
+
+## colaboration tools / services
+
+### colab
+
+- http://jsfiddle.net/
+- https://hackpad.com/
+
+### code repos & pm
+
+- https://github.com/
+- https://bitbucket.org/
 
 
 ## Browser informations & hints
@@ -27,7 +64,10 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## Standards & RFCs
 
+- http://www.w3.org/ The World Wide Web Consortium (W3C)
+- http://www.w3.org/WAI/intro/aria.php WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. (en)
 - http://www.w3.org/Protocols/rfc2616/rfc2616.html  Hypertext Transfer Protocol -- HTTP/1.1 (en)
+- http://www.w3.org/html/wg/drafts/html/master/
 - http://www.webdav.org/specs/ WebDAV Specifications (en)
 
 ## Licences
