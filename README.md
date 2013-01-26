@@ -5,21 +5,23 @@ etc. around web development.
 
 it's far from beeing complete. Proposals for good links or articles are welcome.
 
-## Licences
 
-- http://paulmillr.com/posts/simple-description-of-popular-software-licenses/ (en)
+## Introduction into web development
+
+- http://jendryschik.de/wsdev/einfuehrung/ (de)
 
 
 ## Editors & IDEs
 
 - http://netbeans.org/ Netbeans (en)
 - http://www.aptana.com/ Aptana Studio (en)
+- http://www.zend.com/de/products/studio/ (de/i18n)
 
 
 ## Browser informations & hints
 
 - https://developer.mozilla.org/ Mozialla developer network (i18n)
-- http://msdn.microsoft.com/de-de/library/ee851571%28v=vs.85%29.aspx  Internet Explorer (i18n)
+- http://msdn.microsoft.com/de-de/library/ee851571%28v=vs.85%29.aspx  Internet Explorer (de/i18n)
 - http://code.msdn.microsoft.com/site/search?f[0].Type=Platform&f[0].Value=Web&f[0].Text=Web Developer Code Samples (en)
 
 
@@ -27,3 +29,8 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 - http://www.w3.org/Protocols/rfc2616/rfc2616.html  Hypertext Transfer Protocol -- HTTP/1.1 (en)
 - http://www.webdav.org/specs/ WebDAV Specifications (en)
+
+## Licences
+
+- http://paulmillr.com/posts/simple-description-of-popular-software-licenses/ (en)
+- http://opensource.org/licenses/index.html (en)
