@@ -11,7 +11,12 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 - http://jendryschik.de/wsdev/einfuehrung/ (Einführung in XHTML, CSS und Webdesign) (de)
 - http://www.webplatform.org/  Your Web, documented (en)
 
-## html / html5
+## html/css html5/css3
+
+-
+
+### css
+- http://www.css4you.de/
 
 ## advanced topics
 
@@ -42,6 +47,11 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 - http://yui.github.com/yuicompressor/ YUI Compressor (en)
 - http://www.jshint.com/ JSHint is a tool to detect errors and potential problems in JavaScript code and can be used to enforce coding conventions. (en)
 
+### Firefox plugins
+
+- https://addons.mozilla.org/de/firefox/addon/web-developer/
+- https://addons.mozilla.org/de/firefox/addon/firebug/
+
 ## colaboration tools / services
 
 ### colab
@@ -65,6 +75,7 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 ## Standards & RFCs
 
 - http://www.w3.org/ The World Wide Web Consortium (W3C)
+- http://www.w3.org/html/wg/drafts/html/master/ HTML 5 (en)
 - http://www.w3.org/WAI/intro/aria.php WAI-ARIA, the Accessible Rich Internet Applications Suite, defines a way to make Web content and Web applications more accessible to people with disabilities. (en)
 - http://www.w3.org/Protocols/rfc2616/rfc2616.html  Hypertext Transfer Protocol -- HTTP/1.1 (en)
 - http://www.w3.org/html/wg/drafts/html/master/
