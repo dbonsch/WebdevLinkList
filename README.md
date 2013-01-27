@@ -82,6 +82,10 @@ it's far from beeing complete. Proposals for good links or topics are welcome.
 - http://openiconlibrary.sourceforge.net/downloads.html  Open Icon Library. Available in many different packages grouped by lincences
 - http://fortawesome.github.com/Font-Awesome/ One font, 249 icons in a single collection, Font Awesome is a pictographic language of web-related actions.
 
+## Webserver
+
+- https://developers.google.com/webmasters/control-crawl-index/docs/robots_txt?hl=de Robots.txt Specifications
+
 ## Browser informations & hints
 
 - https://developer.mozilla.org/ Mozialla developer network (i18n)
