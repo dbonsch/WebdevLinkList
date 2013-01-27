@@ -58,8 +58,8 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ### colab
 
-- http://jsfiddle.net/
-- https://hackpad.com/
+- http://jsfiddle.net/ Online collaborative JS / CSS & Markup Debugger
+- https://hackpad.com/ Etherpad like collaborative easy & efficient to use whiteboard
 
 ### code repos & pm
 
@@ -74,9 +74,10 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ### Icons
 
-- http://preloaders.net/
+- http://preloaders.net/ Loading GIF & APNG (AJAX loaders) generator
 - http://www.famfamfam.com/ Silk web icon set, with 1000 icons
 - http://openiconlibrary.sourceforge.net/downloads.html  Open Icon Library. Available in many different packages grouped by lincences
+- http://fortawesome.github.com/Font-Awesome/ One font, 249 icons in a single collection, Font Awesome is a pictographic language of web-related actions.
 
 ## Browser informations & hints
 
