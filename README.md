@@ -24,6 +24,8 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## libraries and frameworks
 
+- http://html5doctor.com/
+
 ### html5
 
 - http://html5boilerplate.com/
@@ -64,6 +66,17 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 - https://github.com/
 - https://bitbucket.org/
 
+## Free Colorpalets, Images, Icons Templates
+
+### Colorschemes
+
+- http://colorschemedesigner.com/ A web Color Scheme Designer
+
+### Icons
+
+- http://preloaders.net/
+- http://www.famfamfam.com/ Silk web icon set, with 1000 icons
+- http://openiconlibrary.sourceforge.net/downloads.html  Open Icon Library. Available in many different packages grouped by lincences
 
 ## Browser informations & hints
 
