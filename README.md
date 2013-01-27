@@ -13,7 +13,7 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## html/css html5/css3
 
--
+- http://html5doctor.com/
 
 ### css
 - http://www.css4you.de/
@@ -24,7 +24,6 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## libraries and frameworks
 
-- http://html5doctor.com/
 
 ### html5
 
