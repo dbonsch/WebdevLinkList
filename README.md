@@ -1,10 +1,12 @@
 # webdevelopers link list
 
-just a nice list of interesting, high quality links to pages, tools, articles
-etc. around web development.
+A list of (hopefully) interesting, high quality links to (free)
+pages, tools, articles and services for webdevelopment beginners and professionals.
 
-it's far from beeing complete. Proposals for good links or articles are welcome.
+The goal is not to have as many links as possible, but to have the one or two best
+links per topic (Depending on the (human) language of the sources sometimes more).
 
+it's far from beeing complete. Proposals for good links or topics are welcome.
 
 ## Introduction into web development
 
@@ -16,6 +18,7 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 - http://html5doctor.com/
 
 ### css
+
 - http://www.css4you.de/
 
 ## advanced topics
@@ -24,7 +27,6 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ## libraries and frameworks
 
-
 ### html5
 
 - http://html5boilerplate.com/
@@ -32,10 +34,12 @@ it's far from beeing complete. Proposals for good links or articles are welcome.
 
 ### js frameworks & libs
 
-- http://jquery.com/
-- http://jqueryui.com/
-- http://twitter.github.com/bootstrap/
+- http://jquery.com/ jQuery is a fast, small, and feature-rich JavaScript library.
+- http://twitter.github.com/bootstrap/  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
+### jQuery Plugins & Extensions
+
+- http://jqueryui.com/ Query UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 
 ## Editors & IDEs
 
