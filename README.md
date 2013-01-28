@@ -63,11 +63,21 @@ it's far from beeing complete. Proposals for good links or topics are welcome.
 
 - http://jsfiddle.net/ Online collaborative JS / CSS & Markup Debugger
 - https://hackpad.com/ Etherpad like collaborative easy & efficient to use whiteboard
+- http://www.pidgin.im/ IM all your friends in one place
+- http://www.igniterealtime.org/projects/openfire/ Openfire is a real time collaboration (RTC) server licensed under the Open Source Apache License.
 
 ### code repos & pm
 
 - https://github.com/
 - https://bitbucket.org/
+- http://git-scm.com/
+-- http://git-scm.com/book
+-- http://www.vogella.com/articles/Git/article.html
+
+### ci server
+
+- http://jenkins-ci.org/ An extendable open source continuous integration server
+-- https://wiki.jenkins-ci.org/display/JENKINS/Plugins Choose from over 600 plugins to customize Jenkins exactly to your needs.
 
 ## Free Colorpalets, Images, Icons Templates
 
