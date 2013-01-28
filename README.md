@@ -1,12 +1,36 @@
-# webdevelopers link list
+# PHP webdeveloper link list
 
-A list of (hopefully) interesting, high quality links to (free)
-pages, tools, articles and services for webdevelopment beginners and professionals.
+Yet another linklist? What's the big idea?
 
-The goal is not to have as many links as possible, but to have the one or two best
-links per topic (Depending on the (human) language of the sources sometimes more).
+Ok you have a problem and you want to solve it. Now.
+What would you need?
 
-it's far from beeing complete. Proposals for good links or topics are welcome.
+Well last thing is a list of dozens of links for exactly
+the same topic or problem. Right?
+
+Normaly people are asking questions like "What to use to do XY?".
+The answer is often an endless list of tools or libs for exactly that problem. (Or nothing.)
+
+Most of them high class / high quality. Diffrences are only nuances or some less technical
+more religious ways of how to get something done.
+If you are a beginner, how should you really choose the best?
+If you are a pro just looking for a working solution... do you really have the time to checkout all of them?
+Didn't you ask for the one, or a least one working solution?
+
+Right, theres no answer that's allways right in every case, but there are answers which aren't wrong
+in most of the cases.
+
+Purpose of this list is to provide a list for PHP webdevelopers (feel free to fork and create a variant {code_lang}.{human.lang}.md for other languages)
+with one or two solutions for a problem that:
+
+- proved to work
+- have an active community
+- have a good quality in content or code
+- just do the job in an adequate way
+
+I don't say this is the only way. There are billions of ways (And thats only the number of the really good combinations).
+But all of this links are proofed to work, work consistent together and get the job done in a efficient good way.
+
 
 ## Introduction into web development
 
