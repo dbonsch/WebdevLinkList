@@ -95,13 +95,13 @@ But all of this links are proofed to work, work consistent together and get the 
 - https://github.com/
 - https://bitbucket.org/
 - http://git-scm.com/
--- http://git-scm.com/book
--- http://www.vogella.com/articles/Git/article.html
+ - http://git-scm.com/book
+ - http://www.vogella.com/articles/Git/article.html
 
 ### ci server
 
 - http://jenkins-ci.org/ An extendable open source continuous integration server
--- https://wiki.jenkins-ci.org/display/JENKINS/Plugins Choose from over 600 plugins to customize Jenkins exactly to your needs.
+ - https://wiki.jenkins-ci.org/display/JENKINS/Plugins Choose from over 600 plugins to customize Jenkins exactly to your needs.
 
 ## Free Colorpalets, Images, Icons Templates
 
