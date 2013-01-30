@@ -96,10 +96,17 @@ Easy access to professional support if required.
 I would recommend to choose ZendStudio or PhpStorm. Both very good IDEs but cost money.
 If you don't have the money checkout Aptana Studio or Netbeans.
 
+However much more important than what you choose is to learn how to use your IDE and
+how to customize it and add custom actions / scrips and whatever you need.
+Remeber, the best IDE doesn't help if you have no idea how to use it.
+
 - http://www.zend.com/de/products/studio/ (de/i18n)
 - http://www.jetbrains.com/phpstorm/
 - http://www.aptana.com/ Aptana Studio (en)
 - http://netbeans.org/ Netbeans (en)
+
+![Debugger](http://imgs.xkcd.com/comics/debugger.png "Debugger")
+
 
 ### QA tools
 
