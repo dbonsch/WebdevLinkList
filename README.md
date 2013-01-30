@@ -37,44 +37,77 @@ But all of this links are proofed to work, work consistent together and get the 
 - http://jendryschik.de/wsdev/einfuehrung/ (Einführung in XHTML, CSS und Webdesign) (de)
 - http://www.webplatform.org/  Your Web, documented (en)
 
-## html/css html5/css3
+## PHP
 
-- http://html5doctor.com/
+- http://php.net Well where to start else?
+
+### PHP Frameworks
+
+Choose one of them.
+Big community, high code quality, many many available extensions / modules.
+Easy access to professional support if required.
+
+- http://symfony.com/ Symfony is a PHP framework for web projects.
+- http://framework.zend.com/ One of the most popular PHP frameworks
+
+### PHP Libraries
+
+- http://phpexcel.codeplex.com/ PHPExcel - OpenXML - Read, Write and Create Excel documents in PHP - Spreadsheet engine
+- http://www.tcpdf.org/ TCPDF is a FLOSS PHP class for generating PDF documents.
+
+
+## html/css
+
+- http://de.selfhtml.org/
 
 ### css
 
 - http://www.css4you.de/
 
-## advanced topics
+### advanced topics
 
 - http://developer.yahoo.com/performance/rules.html Best Practices for Speeding Up Your Web Site (en)
 
-## libraries and frameworks
+### libraries and frameworks
 
-### html5
+#### html5
 
 - http://html5boilerplate.com/
 - http://modernizr.com/
 
-### js frameworks & libs
+#### js frameworks & libs
 
 - http://jquery.com/ jQuery is a fast, small, and feature-rich JavaScript library.
 - http://twitter.github.com/bootstrap/  Sleek, intuitive, and powerful front-end framework for faster and easier web development.
 
-### jQuery Plugins & Extensions
+#### jQuery Plugins & Extensions
 
 - http://jqueryui.com/ Query UI is a curated set of user interface interactions, effects, widgets, and themes built on top of the jQuery JavaScript Library.
 
-## Editors & IDEs
+#### Non jquery libraries
 
-- http://netbeans.org/ Netbeans (en)
-- http://www.aptana.com/ Aptana Studio (en)
-- http://www.zend.com/de/products/studio/ (de/i18n)
+- http://philogb.github.com/jit/demos.html The JavaScript InfoVis Toolkit provides tools for creating Interactive Data Visualizations for the Web.
+- http://www.tinymce.com/ TinyMCE is a platform independent web based Javascript HTML WYSIWYG editor control released as Open Source under LGPL by Moxiecode Systems AB.
 
 ## Tools
 
-- http://yui.github.com/yuicompressor/ YUI Compressor (en)
+### Editors & IDEs
+
+I would recommend to choose ZendStudio or PhpStorm. Both very good IDEs but cost money.
+If you don't have the money checkout Aptana Studio or Netbeans.
+
+- http://www.zend.com/de/products/studio/ (de/i18n)
+- http://www.jetbrains.com/phpstorm/
+- http://www.aptana.com/ Aptana Studio (en)
+- http://netbeans.org/ Netbeans (en)
+
+### QA tools
+
 - http://www.jshint.com/ JSHint is a tool to detect errors and potential problems in JavaScript code and can be used to enforce coding conventions. (en)
+
+### Minifier
+
+- http://yui.github.com/yuicompressor/ YUI Compressor (en)
 
 ### Firefox plugins
 
